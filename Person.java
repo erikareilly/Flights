@@ -1,6 +1,8 @@
 Public class Person{
 
-      public Person(){
+    private String name;
+    
+    public Person(){
 }
 
 }
